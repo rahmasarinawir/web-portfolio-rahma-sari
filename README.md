@@ -34,6 +34,10 @@ Halaman kontak memberikan cara bagi pengunjung untuk menghubungi Rahma Sari. Ini
 1. Clone repositori ini: `https://github.com/rahmasarinawir/web-portfolio-rahma-sari.git`
 2. Buka file `index.html` menggunakan browser web.
 
+## Link Demo
+
+`https://rahmasarinawir.github.io/web-portfolio-rahma-sari`
+
 
 ---
 
